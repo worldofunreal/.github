@@ -6,7 +6,7 @@
 
 <p align="center">
   Building games, dApps and digital art tools since 2016.<br />
-  Remote-first · Los Angeles, USA
+  Remote-first · Mexico
 </p>
 
 <p align="center">
