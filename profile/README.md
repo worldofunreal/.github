@@ -22,8 +22,52 @@ Our space strategy franchise with a Web3 economy: fleet battles, ranked ladders,
 
 ## Open source
 
-- [wou-id](https://github.com/worldofunreal/wou-id): the identity engine behind our games and sites. Email OTP, social OAuth and Web3 wallets (EVM, Solana, ICP) in one progressive auth flow. Rust.
-- [Ionic-Swap](https://github.com/worldofunreal/Ionic-Swap): swap interface that moves assets across chains without bridges or wrapped tokens. Astro frontend, Rust backend, WouID login.
-- [nftropoly](https://github.com/worldofunreal/nftropoly): marketplace where players trade game items and collectibles. Live at [nftropoly.com](https://nftropoly.com).
-- [Signal](https://github.com/worldofunreal/Signal): task app that cuts the noise and shows only what matters for the next 18 hours. Vue, TypeScript.
-- [IC_Hub_Unity](https://github.com/worldofunreal/IC_Hub_Unity): Unity client of IC Hub, our portal to Web3 dApps.
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/worldofunreal/wou-id"><img src="https://worldofunreal.com/wouid.svg" alt="WouID" height="140" /></a><br />
+      <a href="https://github.com/worldofunreal/wou-id"><b>wou-id</b></a><br />
+      Identity engine behind our games: email OTP, social OAuth, Web3 wallets. Rust.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/worldofunreal/Hyper"><img src="https://worldofunreal.com/assets/hyper.webp" alt="Hyper" height="140" /></a><br />
+      <a href="https://github.com/worldofunreal/Hyper"><b>Hyper</b></a><br />
+      Desktop launcher for our titles: game library, social, news and shop. Electron, TypeScript.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/worldofunreal/Ionic-Swap"><img src="https://worldofunreal.com/assets/ionic_swap.svg" alt="Ionic Swap" height="140" /></a><br />
+      <a href="https://github.com/worldofunreal/Ionic-Swap"><b>Ionic-Swap</b></a><br />
+      Cross-chain swaps without bridges or wrapped tokens. Astro, Rust.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/worldofunreal/nftropoly"><img src="https://worldofunreal.com/assets/nftropoly.webp" alt="NFTropoly" height="140" /></a><br />
+      <a href="https://github.com/worldofunreal/nftropoly"><b>nftropoly</b></a><br />
+      Store and marketplace for game items and collectibles.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/worldofunreal/Taghaus"><img src="https://worldofunreal.com/assets/taghaus.webp" alt="Taghaus" height="140" /></a><br />
+      <a href="https://github.com/worldofunreal/Taghaus"><b>Taghaus</b></a><br />
+      Decentralized domain auction marketplace: English, Dutch and sealed bid auctions. Next.js.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/worldofunreal/Signal"><img src="https://worldofunreal.com/assets/signal.webp" alt="Signal" height="140" /></a><br />
+      <a href="https://github.com/worldofunreal/Signal"><b>Signal</b></a><br />
+      Task app that shows only what matters for the next 18 hours. Vue, TypeScript.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/worldofunreal/IC_Hub_Unity"><img src="https://worldofunreal.com/assets/ichub.webp" alt="IC Hub" height="140" /></a><br />
+      <a href="https://github.com/worldofunreal/IC_Hub_Unity"><b>IC_Hub_Unity</b></a><br />
+      Unity client of IC Hub, our portal to Web3 dApps.
+    </td>
+    <td align="center" width="50%">
+      <b>More</b><br /><br />
+      <a href="https://github.com/orgs/worldofunreal/repositories">All repositories →</a>
+    </td>
+  </tr>
+</table>
