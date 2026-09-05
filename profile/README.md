@@ -36,9 +36,9 @@ We build modular, open infrastructure that players and creators can truly own: r
 |---|---|
 | [wou-id](https://github.com/worldofunreal/wou-id) | Universal game identity engine — OTP, OAuth, Web3 (Rust) |
 | [Ionic-Swap](https://github.com/worldofunreal/Ionic-Swap) | Cross-chain DeFi swaps with chain abstraction — no bridges, no wrapped tokens |
-| [Hyper](https://github.com/worldofunreal/Hyper) | Game launcher for our titles (Electron + TypeScript) |
-| [Metapixel](https://github.com/worldofunreal/Metapixel) | Image metadata identification tools (Python) |
-| [Signal](https://github.com/worldofunreal/Signal) | Minimalist daily-focus task app |
+| [nftropoly](https://github.com/worldofunreal/nftropoly) | Marketplace to trade game items and collectibles |
+| [Signal](https://github.com/worldofunreal/Signal) | Minimalist daily-focus task app (Vue + TypeScript) |
+| [IC_Hub_Unity](https://github.com/worldofunreal/IC_Hub_Unity) | Unity portal to Web3 dApps |
 
 ## Stack
 
