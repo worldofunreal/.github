@@ -23,7 +23,7 @@ World of Unreal is an independent AI and Web3 studio. We build games, apps and d
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/worldofunreal/wou-id"><img src="https://worldofunreal.com/wouid.svg" alt="WouID" height="140" /></a><br />
+      <a href="https://github.com/worldofunreal/wou-id"><img src="https://worldofunreal.com/assets/wouid-banner.webp" alt="WouID" height="140" /></a><br />
       <a href="https://github.com/worldofunreal/wou-id"><b>WouID</b></a><br />
       The identity engine behind every game and site we ship. One progressive auth flow: email OTP, social OAuth (Discord, Google, X, Meta), Web3 wallets on EVM, Solana and ICP, plus QR and bot auth. Rust. Powers cross-game profiles and assets.
     </td>
