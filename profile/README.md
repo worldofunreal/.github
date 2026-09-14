@@ -35,7 +35,7 @@ World of Unreal is an independent AI and Web3 studio. We build games, apps and d
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/worldofunreal/Ionic-Swap"><img src="https://worldofunreal.com/assets/ionic_swap.svg" alt="Ionic Swap" height="140" /></a><br />
+      <a href="https://github.com/worldofunreal/Ionic-Swap"><img src="https://worldofunreal.com/assets/ionicswap.webp" alt="Ionic Swap" height="140" /></a><br />
       <a href="https://github.com/worldofunreal/Ionic-Swap"><b>Ionic Swap</b></a><br />
       Unified DeFi interface with chain abstraction: swap any asset across chains, gaslessly, without bridges or wrapped tokens. Astro frontend with Tailwind, Rust backend, sign-in through WouID and Internet Identity.
     </td>
