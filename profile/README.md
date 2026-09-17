@@ -9,13 +9,13 @@ World of Unreal is an independent AI and Web3 studio. We build games, apps and d
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/worldofunreal/shadows-of-war"><img src="https://worldofunreal.com/assets/shadowsofwar-banner.webp" alt="Shadows of War" height="140" /></a><br />
+      <a href="https://github.com/worldofunreal/shadows-of-war"><img src="https://worldofunreal.com/assets/shadowsofwar-splash.webp" alt="Shadows of War" height="140" /></a><br />
       <a href="https://github.com/worldofunreal/shadows-of-war"><b>Shadows of War</b></a><br />
       Multiplayer territory strategy written in Rust, free to play in the browser. Command one of twelve historical leaders, build cities, factories and ports on a real world map, forge alliances and take territory in real time. Open source (AGPL-3.0): deterministic lockstep server, relay network and WASM client.<br />
       <a href="https://shadowsofwar.io">shadowsofwar.io</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/cosmicrafts"><img src="https://worldofunreal.com/assets/cosmicrafts.jpg" alt="Cosmicrafts" height="140" /></a><br />
+      <a href="https://github.com/cosmicrafts"><img src="https://worldofunreal.com/assets/cosmicrafts.webp" alt="Cosmicrafts" height="140" /></a><br />
       <a href="https://github.com/cosmicrafts"><b>Cosmicrafts</b></a><br />
       Our space strategy franchise with a Web3 economy: fleet battles, ranked ladders, missions and rewards, with items and currency that players own. Alpha is live, developed in its own organization with the open parts on GitHub.<br />
       <a href="https://cosmicrafts.com">cosmicrafts.com</a>
